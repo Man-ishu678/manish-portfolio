@@ -13,14 +13,14 @@ export default function Contact() {
       </p>
       <div className="flex space-x-6 animate-fadeIn delay-400">
         <a
-          href="mailto:manish@example.com"
+          href="mailto:manish.sonu2117@gmail.com"
           className="flex items-center space-x-2 hover:text-blue-500 transition transform hover:scale-105"
         >
           <Mail className="w-6 h-6" />
           <span>Email Me</span>
         </a>
         <a
-          href="https://linkedin.com/in/manishkumar"
+          href="https://linkedin.com/in/manishkumarhttps://www.linkedin.com/in/manishkumardevarshetty/"
           target="_blank"
           className="flex items-center space-x-2 hover:text-blue-700 transition transform hover:scale-105"
         >
