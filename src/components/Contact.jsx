@@ -20,7 +20,7 @@ export default function Contact() {
           <span>Email Me</span>
         </a>
         <a
-          href="www.linkedin.com/in/manishkumardevarshetty"
+          href="https://www.linkedin.com/in/manishkumardevarshetty/"
           target="_blank"
           className="flex items-center space-x-2 hover:text-blue-700 transition transform hover:scale-105"
         >
